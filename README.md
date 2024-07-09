@@ -19,7 +19,7 @@ Aasna is a cutting-edge system designed to detect and correct yoga postures usin
 ## Installation
 
 1. Clone the repository
-
+```bash https://github.com/ligdevaidehi/Aasna-Kinematic-Yoga-Posture-Detection-And-Correction-System-.git ```
 2. Install dependencies:
     ```bash
     npm install
