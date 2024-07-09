@@ -1,0 +1,27 @@
+.tutorials-container {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(100deg, #a5f3fc, #60a5fa);
+}
+.tutorials-heading {
+  font-size: 44px;
+  margin-left: 100px;
+  padding-top: 50px;
+  color: black;
+  font-family: "Poppins", sans-serif;
+}
+
+.tutorials-content {
+  color: black;
+  font-size: 20px;
+  margin: auto;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.tutorials-content-container {
+  width: 60rem;
+  padding: 1rem 1rem;
+  background-color: white;
+  margin-left: 88px;
+  border-radius: 8px;
+}
